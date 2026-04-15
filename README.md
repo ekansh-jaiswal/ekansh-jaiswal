@@ -14,7 +14,7 @@ I am a **Computer Science student** who enjoys building software, improving syst
 Right now, my GitHub reflects three main areas:
 - **software development fundamentals**, especially through C++ practice and project work
 - **Linux and systems**, through customization, tooling, and workflow experiments
-- **security as an interest area**, mainly through hands-on platforms like OverTheWire
+- **security as an interest area**, mainly through hands-on platforms like OverTheWire , TryHackMe and HackTheBox
 
 I am aiming toward a **software engineering path**, while keeping my curiosity for systems and security very much alive.
 
