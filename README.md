@@ -60,11 +60,11 @@ I am aiming toward a **software engineering path**, while keeping my curiosity f
 ## Current direction
 
 ```text
-Software engineering   [#########-------]
-C++ / problem solving  [########--------]
-Linux / systems        [#########-------]
-Documentation          [########--------]
-Security curiosity     [######----------]
+Software engineering   [######----------]
+C++ / problem solving  [####------------]
+Linux / systems        [####------------]
+Documentation          [#####-----------]
+Security curiosity     [####------------]
 ```
 
 ## A few things about me
