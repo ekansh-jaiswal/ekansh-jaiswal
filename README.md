@@ -33,6 +33,7 @@ I am aiming toward a **software engineering path**, while keeping my curiosity f
 | [dotfiles](https://github.com/ekansh-jaiswal/dotfiles) | Personal Arch Linux / Openbox setup with Polybar, Picom, Zsh, and Fastfetch | Active |
 | [Cpp-Practice-Notes](https://github.com/ekansh-jaiswal/Cpp-Practice-Notes) | C++ learning repo built from practice, notes, and tutorial-based revision | Active |
 | [Cybersecurity-Notes](https://github.com/ekansh-jaiswal/Cybersecurity-Notes) | Notes from ongoing cybersecurity learning across different topics | Active |
+| [My Blogs](https://ekansh-jaiswal.github.io/) | This is my personal Blog Channel where I post content related to Security. | Active |
 | [Remote-Healthcare-System](https://github.com/ekansh-jaiswal/Remote-Healthcare-System) | Early Python project kept as an archive/reference project | Deprecated |
 
 ## Tech stack
